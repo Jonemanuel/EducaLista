@@ -16,22 +16,35 @@ EducaLista é uma solução intuitiva para escolas e professores. Permite o regi
 ## Capturas de Tela
 
 ### Tela Inicial
-<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/TelaInicial1.jpg" alt="Tela Inicial 1" width="300"/>
-<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/TelaInicial2.jpg" alt="Tela Inicial 2" width="300"/>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/TelaInicial1.jpg" alt="Tela Inicial 1" width="300"/>
+  <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/TelaInicial2.jpg" alt="Tela Inicial 2" width="300"/>
+</div>
 
 ### Tela de Presença
-<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Home1.jpg" alt="Tela de Presença 1" width="300"/>
-<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Home2.jpg" alt="Tela de Presença 2" width="300"/>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Home1.jpg" alt="Tela de Presença 1" width="300"/>
+  <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Home2.jpg" alt="Tela de Presença 2" width="300"/>
+</div>
 
 ### Tela de Notas
-<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Nota1.jpg" alt="Tela de Notas 1" width="300"/>
-<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Notaa2.jpg" alt="Tela de Notas 2" width="300"/>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Nota1.jpg" alt="Tela de Notas 1" width="300"/>
+  <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Notaa2.jpg" alt="Tela de Notas 2" width="300"/>
+</div>
 
 ### Tela de Lista Telefônica
-<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Contato1.jpg" alt="Tela de Lista Telefônica 1" width="300"/>
-<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Contato2.jpg" alt="Tela de Lista Telefônica 2" width="300"/>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Contato1.jpg" alt="Tela de Lista Telefônica 1" width="300"/>
+  <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Contato2.jpg" alt="Tela de Lista Telefônica 2" width="300"/>
+</div>
 
 ### Tela de Detalhes do Desenvolvedor
+
 <img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Desenvolvedor.jpg" alt="Tela de Detalhes do Desenvolvedor" width="300"/>
 
 ## Tecnologias Utilizadas
