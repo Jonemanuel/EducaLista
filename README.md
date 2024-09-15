@@ -16,23 +16,23 @@ EducaLista é uma solução intuitiva para escolas e professores. Permite o regi
 ## Capturas de Tela
 
 ### Tela Inicial
-![Tela Inicial 1](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/TelaInicial1.jpg)
-![Tela Inicial 2](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/TelaInicial2.jpg)
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/TelaInicial1.jpg" alt="Tela Inicial 1" width="300"/>
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/TelaInicial2.jpg" alt="Tela Inicial 2" width="300"/>
 
 ### Tela de Presença
-![Tela de Presença 1](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Home1.jpg)
-![Tela de Presença 2](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Home2.jpg)
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Home1.jpg" alt="Tela de Presença 1" width="300"/>
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Home2.jpg" alt="Tela de Presença 2" width="300"/>
 
 ### Tela de Notas
-![Tela de Notas 1](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Nota1.jpg)
-![Tela de Notas 2](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Notaa2.jpg)
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Nota1.jpg" alt="Tela de Notas 1" width="300"/>
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Notaa2.jpg" alt="Tela de Notas 2" width="300"/>
 
 ### Tela de Lista Telefônica
-![Tela de Lista Telefônica 1](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Contato1.jpg)
-![Tela de Lista Telefônica 2](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Contato2.jpg)
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Contato1.jpg" alt="Tela de Lista Telefônica 1" width="300"/>
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Contato2.jpg" alt="Tela de Lista Telefônica 2" width="300"/>
 
 ### Tela de Detalhes do Desenvolvedor
-![Tela de Detalhes do Desenvolvedor](https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Desenvolvedor.jpg)
+<img src="https://github.com/Jonemanuel/EducaLista/blob/main/assets/readme/Desenvolvedor.jpg" alt="Tela de Detalhes do Desenvolvedor" width="300"/>
 
 ## Tecnologias Utilizadas
 
